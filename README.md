@@ -19,4 +19,4 @@ Instead of using raw data, several domain-specific features were engineered to i
 * The Random Forest classifier outperformed baseline models, effectively managing the non-linear relationships between road conditions, time, and severity.
 * **Business Value:** Implementing this model in a centralized emergency dispatch system could prioritize ambulance dispatching, potentially reducing response times for life-threatening incidents.
 
-> **Note:** The complete preprocessing pipeline, exploratory data analysis (EDA), and model training can be found in the `Machine_Learning_TEAM18.ipynb` notebook.
+> **Note:** The complete preprocessing pipeline, exploratory data analysis (EDA), and model training can be found in the `Machine_Learning_Project.ipynb` notebook.
