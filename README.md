@@ -1,0 +1,2 @@
+# ML-Pipeline-for-Prediction-of-Severity-in-Traffic-Accidents-Smart-Mobility-
+Design and development of a machine learning classification model aimed at optimizing emergency services resources. The pipeline includes comprehensive data ingestion, cleaning, and labeling. Regression and Random Forest models were trained and compared to categorize incidents as minor, moderate, and severe in real time.
